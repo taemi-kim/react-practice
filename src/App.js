@@ -74,6 +74,10 @@ function App() {
   
   )
         }
+  
+        <input type="text">
+        
+        </input>
 const Modal2 = () => {}
 
         function Modal(props){ //얘가 component
